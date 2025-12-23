@@ -1,0 +1,1 @@
+# Trend--and-Reference-Guided-Hybrid-Modeling-of-Temperature-Dependent-Thermophysical-Properties
